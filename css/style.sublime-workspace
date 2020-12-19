@@ -1,0 +1,616 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"count",
+				"country1"
+			],
+			[
+				"cat",
+				"cat_id"
+			],
+			[
+				"course",
+				"course1"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"que",
+				"query"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"se",
+				"session_destroy"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"su",
+				"Submit"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"session",
+				"session_destroy"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"l",
+				"lnameerr"
+			],
+			[
+				"fnam",
+				"fnameerr"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"pass",
+				"passerr"
+			],
+			[
+				"pas",
+				"passerr"
+			],
+			[
+				"email",
+				"emailerr"
+			],
+			[
+				"ima",
+				"image"
+			],
+			[
+				"pc",
+				"pc"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"st",
+				"stripcslashes"
+			],
+			[
+				"pro",
+				"pro_id"
+			],
+			[
+				"mysqli_fet",
+				"mysqli_fetch_array"
+			],
+			[
+				"product",
+				"product_master"
+			],
+			[
+				"cat_id",
+				"cat_id"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"cate",
+				"category_master"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"mysqli_",
+				"mysqli_fetch"
+			],
+			[
+				"MYsqli",
+				"mysqli_fetch"
+			],
+			[
+				"fname",
+				"fname"
+			],
+			[
+				"Lo",
+				"location"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"e",
+				"Enter"
+			],
+			[
+				"h",
+				"host"
+			],
+			[
+				"file",
+				"filepath"
+			],
+			[
+				"fiel",
+				"filepath"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"ca",
+				"categories"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"cel",
+				"cellspacing\tAttr"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"sessi",
+				"session_start"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"td",
+				"td\tTag"
+			],
+			[
+				"mysq",
+				"mysql_connect"
+			],
+			[
+				"fil",
+				"filelocation"
+			],
+			[
+				"mo",
+				"move_uploaded_file"
+			],
+			[
+				"uplo",
+				"upload"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"me",
+				"MenuItem"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"E",
+				"Email"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"auto",
+				"autofocus\tAttr"
+			],
+			[
+				"pa",
+				"placeholder\tAttr"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"sta",
+				"statement"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"min-",
+				"min-height\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"b",
+				"border-style\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Users/admin/Downloads/ONLINE_FOOD_ORDER_SYSTEM_IN_PHP_WITH_SOURCE_CODE/Online-Food-Order/index.php",
+		"/D/Users/admin/Downloads/ONLINE_FOOD_ORDER_SYSTEM_IN_PHP_WITH_SOURCE_CODE/Online-Food-Order/delete_food_items1.php",
+		"/D/Users/admin/Downloads/ONLINE_FOOD_ORDER_SYSTEM_IN_PHP_WITH_SOURCE_CODE/Online-Food-Order/css/managerlogin.css",
+		"/D/Users/admin/Downloads/online-game-buying-website-master/index.php",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DIa0.500/index.php",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DIa0.396/signin.php",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DIa0.796/connection.php",
+		"/D/Users/admin/Desktop/php/demo2.php",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DIa0.790/index.php",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DIa0.129/result.php",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DIa0.739/error.php",
+		"/D/Users/admin/Pictures/img2",
+		"/D/Users/admin/Downloads/iPortfolio-bootstrap-5/iPortfolio/index.html",
+		"/C/xampp/htdocs/MeetPatel/Swami_Infotech/admin/managestudent.php",
+		"/C/xampp/htdocs/MeetPatel/Swami_Infotech/admin/addstudent.php",
+		"/C/xampp/htdocs/MeetPatel/Swami_Infotech/admin/editstudent.php",
+		"/C/xampp/htdocs/MeetPatel/Swami_Infotech/admin/managefees.php",
+		"/C/xampp/htdocs/MeetPatel/Swami_Infotech/admin/changepassword.php",
+		"/C/xampp/htdocs/MeetPatel/Swami_Infotech/admin/editfees.php",
+		"/C/xampp/htdocs/MeetPatel/Swami_Infotech/index.php",
+		"/C/xampp/htdocs/MeetPatel/Swami_Infotech/signin.php",
+		"/C/xampp/htdocs/MeetPatel/Swami_Infotech/admin/includes/connection.php",
+		"/C/xampp/htdocs/MeetPatel/Swami_Infotech/admin/index.php",
+		"/C/xampp/htdocs/MeetPatel/Swami_Infotech/admin/includes/header.php",
+		"/C/xampp/htdocs/MeetPatel/Swami_Infotech/admin/includes/sidebar.php",
+		"/C/xampp/htdocs/MeetPatel/Swami_Infotech/connection.php",
+		"/C/xampp/htdocs/MeetPatel/Swami_Infotech/signup.php",
+		"/C/xampp/htdocs/MeetPatel/Swami_Infotech/header.php",
+		"/C/xampp/htdocs/Project/index.php",
+		"/C/xampp/htdocs/Project/signin.php",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DIa0.474/changepassword.php",
+		"/C/xampp/htdocs/Project/admin/changepassword.php",
+		"/C/xampp/htdocs/Dipak_Parikh/passwordchange.php",
+		"/C/xampp/htdocs/Dipak_Parikh/change password.php",
+		"/C/xampp/htdocs/Project/logout.php",
+		"/C/xampp/htdocs/Project/changepassword.php",
+		"/C/xampp/htdocs/database/editcontact.php",
+		"/C/xampp/htdocs/Project/connect.php",
+		"/D/Users/admin/Desktop/Project/ELMS/admin/index.php",
+		"/C/xampp/htdocs/Project/welcome.php",
+		"/D/Users/admin/Desktop/Project/ELMS/admin/header.php",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DIa0.612/index.php",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DIa0.571/index.php",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DIa0.021/index.php",
+		"/D/Users/admin/Desktop/manage emp.php",
+		"/C/xampp/htdocs/database/contact.php",
+		"/C/xampp/htdocs/web/connection.php",
+		"/d/Users/admin/Desktop/connect.php",
+		"/C/xampp/htdocs/web/index.php",
+		"/C/xampp/htdocs/web/edit.php",
+		"/C/xampp/htdocs/web/edit1.php",
+		"/C/xampp/htdocs/database/edit1.php",
+		"/C/xampp/htdocs/database/connect.php",
+		"/D/Users/admin/Downloads/photoshoot_enquiry_form-web_Free24-02-2018_1583938074/web/index.html",
+		"/C/xampp/htdocs/Project/ELMS/admin/editstudent.php",
+		"/C/xampp/htdocs/Project/ELMS/admin/addemp.php",
+		"/C/xampp/htdocs/Project/ELMS/admin/managestudent.php",
+		"/d/Users/admin/Desktop/manage emp.php",
+		"/C/xampp/htdocs/Project/ELMS/admin/manageemp.php",
+		"/C/xampp/htdocs/Project/ELMS/admin/connection.php",
+		"/C/xampp/htdocs/Project/ELMS/admin/index.php",
+		"/C/xampp/htdocs/Project/ELMS/admin/editemp.php",
+		"/C/xampp/htdocs/Project/ELMS/admin/sidebar.php",
+		"/C/xampp/htdocs/Project/ELMS/admin/header.php",
+		"/C/xampp/htdocs/Project/ELMS/admin/changepassword.php",
+		"/C/xampp/htdocs/php code/Database/Edit.php",
+		"/C/xampp/htdocs/php code/Database/Insert.php",
+		"/C/xampp/htdocs/Project/ELMS/admin/check_availability.php",
+		"/C/xampp/htdocs/Project/ELMS/admin/addstudent.php",
+		"/C/xampp/htdocs/validation/register.php",
+		"/C/xampp/htdocs/Project/EMLS/admin/connect.php",
+		"/C/xampp/htdocs/Project/EMLS/admin/index1.php",
+		"/C/xampp/htdocs/Project/EMLS/admin/logout.php",
+		"/C/xampp/htdocs/Project/EMLS/admin/login.php",
+		"/C/xampp/htdocs/php code/project.php",
+		"/C/xampp/htdocs/LearnPhp/Array/array_function.php",
+		"/C/xampp/htdocs/php code/Control Statement/loop.php",
+		"/d/Users/admin/Desktop/Demo.php",
+		"/C/xampp/htdocs/Project/EMLS/admin/index.php",
+		"/d/Users/admin/Desktop/demo.php",
+		"/C/xampp/htdocs/Project/EMLS/index.php",
+		"/C/xampp/htdocs/Project/EMLS/index.html",
+		"/C/xampp/htdocs/Ecom/phpvalidation.php",
+		"/C/xampp/htdocs/php code/Ecommerce/Product.php",
+		"/C/xampp/htdocs/php code/Ecommerce/Category.php",
+		"/C/xampp/htdocs/php code/Ecommerce/Connection.php",
+		"/C/xampp/htdocs/Ecom/connect.php",
+		"/C/xampp/htdocs/Ecom/product.php",
+		"/C/xampp/htdocs/Ecom/deleteproduct.php",
+		"/C/xampp/htdocs/imageupload/deleteimage.php",
+		"/C/xampp/htdocs/Ecom/editproduct.php",
+		"/C/xampp/htdocs/Ecom/category.php",
+		"/C/xampp/htdocs/imageupload/imageupload.php",
+		"/C/xampp/htdocs/imageupload/editimage.php",
+		"/C/xampp/htdocs/php code/Imageupload/ImageDelete.php",
+		"/C/xampp/htdocs/php code/Imageupload/ImageUpload.php",
+		"/C/xampp/htdocs/php code/Imageupload/Connection.php",
+		"/C/xampp/htdocs/imageupload/connect.php",
+		"/C/xampp/htdocs/php code/Database/Delete.php",
+		"/C/xampp/htdocs/database/deletecontact.php",
+		"/C/xampp/htdocs/php code/Database/Connection.php",
+		"/D/Users/admin/Desktop/Image Upload using database/imageupload.php",
+		"/C/xampp/htdocs/php code/Database/Insertcontact.php",
+		"/D/Users/admin/Desktop/Image Upload using database/delete gallery.php",
+		"/C/xampp/htdocs/php code/database/contact.php",
+		"/C/xampp/htdocs/php code/database1/edit.php",
+		"/C/xampp/htdocs/php code/database1/delete.php",
+		"/C/xampp/htdocs/php code/database1/Insert.php",
+		"/C/xampp/htdocs/php code/database1/connection.php",
+		"/F/Connectivity of php/contact.php",
+		"/F/Connectivity of php/connect.php",
+		"/C/xampp/htdocs/LearnPhp/fileupload/fileupload.php",
+		"/C/xampp/htdocs/LearnPhp/database/DbConnect.php",
+		"/C/xampp/htdocs/LearnPhp/database/contact.php",
+		"/C/xampp/htdocs/Dipak_Parikh/manage article.php",
+		"/C/xampp/htdocs/Dipak_Parikh/manage blog.php",
+		"/C/xampp/htdocs/Dipak_Parikh/edit experience.php",
+		"/C/xampp/htdocs/Dipak_Parikh/manage experience.php",
+		"/C/xampp/htdocs/LearnPhp/fileupload/dbconnect.php",
+		"/C/xampp/htdocs/php code/fileupload/Fileupload.php",
+		"/C/xampp/htdocs/LearnPhp/Form/form.php",
+		"/D/Users/admin/Desktop/session_cookie/session.php",
+		"/D/Users/admin/Desktop/session_cookie/setcookie.php",
+		"/D/Users/admin/Desktop/session_cookie/counter.php",
+		"/D/Users/admin/Desktop/File/fopen.php",
+		"/D/Users/admin/Desktop/File/fread.php",
+		"/D/Users/admin/Desktop/File/fappend.php",
+		"/D/Users/admin/Desktop/File/fwrite.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 129.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
